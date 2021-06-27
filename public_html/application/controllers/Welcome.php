@@ -21,6 +21,7 @@ class Welcome extends CI_Controller {
 	public function index()
 	{
 
+		echo base_url();
 		$sayi1 = 5;
 		$sayi2 = 13;
 		$viewData = array(
