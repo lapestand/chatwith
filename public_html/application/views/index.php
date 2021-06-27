@@ -13,7 +13,7 @@
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li><a href="#">Inicio</a></li>
-                <li class="active"><a href="http://bootsnipp.com/snippets/featured/nav-account-manager" target="_blank">Inspirado en este ejemplo</a></li>
+                <li class="active"><a href="http://bootsnipp.com/snippets/featured/nav-account-manager" target="_blank">Selam</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">DropDown
                         <span class="caret"></span>
