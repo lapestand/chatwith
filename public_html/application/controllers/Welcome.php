@@ -24,7 +24,7 @@ class Welcome extends CI_Controller {
 		$sayi1 = 5;
 		$sayi2 = 13;
 		$viewData = array(
-			"toplam" => $sayi1 + $sayi2;
+			"toplam" => $sayi1 + $sayi2,
 		);
 
 		$this->load->view('welcome_message', viewData);
