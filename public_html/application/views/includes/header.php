@@ -17,7 +17,7 @@
 
         <style>
             .mytext{
-            border:0;padding:10px;background:whitesmoke;
+                border:0;padding:10px;background:whitesmoke;
             }
             .text{
                 width:75%;display:flex;flex-direction:column;
@@ -46,7 +46,7 @@
             }
             .frame{
                 background:#e0e0de;
-                height:450px;
+                height:750px;
                 overflow:hidden;
                 padding:0;
             }
@@ -109,6 +109,6 @@
             }  
         </style>
 
-        
+
     </head>
     <body>
