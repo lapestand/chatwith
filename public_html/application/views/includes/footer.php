@@ -5,9 +5,6 @@
 
 
     <script>
-        var me = {};
-        var you = {};
-
         function formatAMPM(date) {
             var hours = date.getHours();
             var minutes = date.getMinutes();
@@ -32,7 +29,7 @@
                                 '<div class="msj macro">' +
                                     '<div class="text text-l">' +
                                         '<p>'+ text +'</p>' +
-                                        '<p><small>'+date+'</small></p>' +
+                                        '<p><small>' + date + '</small></p>' +
                                     '</div>' +
                                 '</div>' +
                             '</li>';                    
@@ -40,8 +37,8 @@
                 control = '<li style="width:100%;">' +
                                 '<div class="msj-rta macro">' +
                                     '<div class="text text-r">' +
-                                        '<p>'+text+'</p>' +
-                                        '<p><small>'+date+'</small></p>' +
+                                        '<p>' + text + '</p>' +
+                                        '<p><small>' + date + '</small></p>' +
                                     '</div>' +                           
                         '</li>';
             }
