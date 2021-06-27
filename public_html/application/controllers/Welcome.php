@@ -28,6 +28,6 @@ class Welcome extends CI_Controller {
 			"toplam" => $sayi1 + $sayi2,
 		);
 
-		$this->load->view('welcome_message', $viewData);
+		$this->load->view('user_list', $viewData);
 	}
 }

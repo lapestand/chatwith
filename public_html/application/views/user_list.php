@@ -11,6 +11,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>YOOO</h1>
 </body>
 </html>
