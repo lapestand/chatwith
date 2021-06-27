@@ -20,6 +20,13 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('welcome_message');
+
+		$sayi1 = 5;
+		$sayi2 = 13;
+		$viewData = array(
+			"toplam" => $sayi1 + $sayi2;
+		);
+
+		$this->load->view('welcome_message', viewData);
 	}
 }
