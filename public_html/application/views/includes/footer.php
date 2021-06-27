@@ -85,5 +85,6 @@
         insertChat("you", "LOL", 12000);
 
         resetChat();
+    </script>
 </body>
 </html>
